@@ -6,21 +6,38 @@ We improved the facial expression enhancement module by fine-tuning the image an
 
 ## Anonymization result examples:
 
-![Screenshot](demos/example3.gif)
+![Screenshot](demos/6188928_hed0_100_compare.gif)
 
 (1) Input prompt for anonymization: a superman in blue uniform is making gestures
 
-![Screenshot](demos/example1.gif)
+![Screenshot](demos/6188928_hed0_101_compare.gif)
 
 (2) Input prompt for anonymization: a handsome man in CG style, blonde hair, is making gestures
 
-![Screenshot](demos/example2.gif)
+![Screenshot](demos/6188928_nhed1_wm_compare.gif)
 
-(3) Input prompt for anonymization: a handsome man in CG style, blonde hair, is making gestures
+(3) Input prompt for anonymization: a beautiful woman in CG style, brown hair, is making gestures
 
-The original signer is on the left is producing the ASL sentences with 
-glosses, hand shapes, non-manual grammatical markings, and translations 
-as shown below, available at https://dai.cs.rutgers.edu/dai/s/dai :
+![Screenshot](demos/633534_nhed1_compare_keep.gif)
+
+(4) Input prompt for anonymization: a handsome man in CG style, blonde hair, is making gestures
+
+![Screenshot](demos/633534_nhed2_compare_keep.gif)
+
+(5) Input prompt for anonymization: a Chinese man in Chinese ink wash painting is making gestures
+
+![Screenshot](demos/8397739_nhed1_compare_keep.gif)
+
+(6) Input prompt for anonymization: a handsome man in CG style, blonde hair, is making gestures
+
+![Screenshot](demos/79801108_nhed1_wm_compare.gif)
+
+(7) Input prompt for anonymization: a beautiful woman in CG style, brown hair, is making gestures
+
+![Screenshot](demos/6186858_nhed1_compare_keep.gif)
+
+(8) Input prompt for anonymization: a handsome man in CG style, blonde hair, is making gestures
+
 
 
 
