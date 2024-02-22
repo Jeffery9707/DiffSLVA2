@@ -63,9 +63,9 @@ In this section, we present a comparison illustrating the impact of our fine-tun
 
 (9) Input prompt for anonymization: a superman in blue uniform is making gestures
 
-****
-
 The originial sign video in (9) is taken from ASLLRP file Cory_2013-6-27_sc115, Utterance 22, meaning 'If friends play Frisbee, I will join them.’ Includes non-manual marking of conditional in the first clause.
+
+****
 
 ![Screenshot](demos/79801108_head_2.gif)
 
