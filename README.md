@@ -31,18 +31,22 @@ The originial sign videos in (1)-(3) are taken from ASLLRP file Cory_2013-6-27_s
 
 The originial sign videos in (4)-(5) are taken from ASLLRP file Cory_2013-6-27_sc113, Utterance 28, meaning ‘Where do you work?’ Includes non-manual marking for wh-questions over the final sign in the sentence (WHERE).
 
+****
+
 ![Screenshot](demos/8397739_nhed1_compare_keep.gif)
 
 (6) Input prompt for anonymization: a handsome man in CG style, blonde hair, is making gestures
 
 The originial sign video in (6) is taken from ASLLRP file Cory_2013-6-27_sc109, Utterance 33, meaning ‘I like it, if it has butter, I'm fine with that.’ Includes non-manual marking of conditional over the middle clause.
 
+****
+
 ![Screenshot](demos/79801108_nhed1_wm_compare.gif)
 
 (7) Input prompt for anonymization: a beautiful woman in CG style, brown hair, is making gestures
 
 The originial sign video in (7) is taken from ASLLRP file Cory_2013-6-27_sc114, Utterance 10, meaning 'I commute to work by bike because I can't afford a car.' Includes non-manual rhetorical question marking over the sign WHY.
-
+****
 
 ![Screenshot](demos/6186858_nhed1_compare_keep.gif)
 
@@ -58,6 +62,8 @@ In this section, we present a comparison illustrating the impact of our fine-tun
 ![Screenshot](demos/7118_head_2.gif)
 
 (9) Input prompt for anonymization: a superman in blue uniform is making gestures
+
+****
 
 The originial sign video in (9) is taken from ASLLRP file Cory_2013-6-27_sc115, Utterance 22, meaning 'If friends play Frisbee, I will join them.’ Includes non-manual marking of conditional in the first clause.
 
