@@ -59,7 +59,7 @@ The originial sign video in (8) is taken from ASLLRP file Cory_2013-6-27_sc115, 
 
 In this section, we present a comparison illustrating the impact of our fine-tuned facial expression enhancement module. The comparison is structured across three rows for clarity. The first row showcases video frames from the original sign language video, including the face of the original signer for reference. The second row displays the anonymized video produced without the integration of our facial expression enhancement module, offering a baseline for comparison. The final row reveals the anonymized video after the application of our facial expression enhancement module, highlighting the module's effectiveness. The comparative analysis clearly demonstrates that our module significantly enhances the generation of facial expressions, leading to more expressive and natural-looking videos.
 
-![Screenshot](demos/7118_head_2.gif)
+![Screenshot](demos/6188928_head_2.gif)
 
 (9) Input prompt for anonymization: a superman in blue uniform is making gestures
 
